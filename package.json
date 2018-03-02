@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-pandola",
+  "version": "0.0.1",
+  "description": "A eslint rule preset for pandorajs project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandolajs/eslint-config-pandola.git"
+  },
+  "keywords": [
+    "eslint",
+    "pandorajs"
+  ],
+  "author": "JohnHou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandolajs/eslint-config-pandola/issues"
+  },
+  "homepage": "https://github.com/pandolajs/eslint-config-pandola#readme"
+}
