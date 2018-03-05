@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pandola",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pandolajs app style - ESLint Shareable Config.",
   "main": "index.js",
   "scripts": {
