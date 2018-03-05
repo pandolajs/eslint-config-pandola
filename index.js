@@ -10,6 +10,11 @@ module.exports = {
     'css-modules',
     'flowtype'
   ],
+  settings: {
+    'flowtype': {
+      onlyFilesWithFlowAnnotation: true
+    }
+  },
   extends: [
     'eslint:recommended',
     'standard',

@@ -17,3 +17,7 @@
 - eslint-plugin-flowtype/recommended 
 
 所有默认规则配置。
+
+## 1.0.1 2018-03-05
+
+为 flowtype 添加 `onlyFilesWithFlowAnnotation`：true 选项。
