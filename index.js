@@ -23,7 +23,6 @@ module.exports = {
     'plugin:flowtype/recommended'
   ],
   root: true,
-  parser: 'babel-eslint',
   env: {
     jest: true,
     browser: true
