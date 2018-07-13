@@ -9,5 +9,9 @@ module.exports = {
   extends: [
     'eslint:recommended',
     'standard'
-  ]
+  ],
+  rules: {
+    "object-curly-spacing": [ "error", "always", { "arraysInObjects": ture, "objectsInObjects": true } ],
+    "array-bracket-spacing": [ "error", "always" ]
+  }
 }
