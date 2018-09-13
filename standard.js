@@ -6,6 +6,12 @@
 */
 
 module.exports = {
+  parser: 'babel-eslint',
+  parserOptions: {
+    ecmaFeatures: {
+      legacyDecorators: true
+    }
+  },
   extends: [
     'eslint:recommended',
     'standard'
