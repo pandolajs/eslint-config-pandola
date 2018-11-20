@@ -17,7 +17,7 @@ module.exports = {
     'standard'
   ],
   rules: {
-    "object-curly-spacing": [ "error", "always", { "arraysInObjects": ture, "objectsInObjects": true } ],
+    "object-curly-spacing": [ "error", "always", { "arraysInObjects": true, "objectsInObjects": true } ],
     "array-bracket-spacing": [ "error", "always" ]
   }
 }
